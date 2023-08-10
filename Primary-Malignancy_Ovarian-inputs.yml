@@ -1,0 +1,27 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/primary-malignancy_ovarian-neoplasm---primary.py
+inputModule3:
+  class: File
+  path: python/primary-malignancy_ovarian---primary.py
+inputModule4:
+  class: File
+  path: python/primary-malignancy_ovarian-carcinoma---primary.py
+inputModule5:
+  class: File
+  path: python/mendometrioid-primary-malignancy_ovarian---primary.py
+inputModule6:
+  class: File
+  path: python/ovarian---primary.py
+inputModule7:
+  class: File
+  path: python/primary-malignancy_ovarian-history---primary.py
+inputModule8:
+  class: File
+  path: python/malignant-neoplasm-ovary-primary-malignancy_ovarian---secondary.py
+inputModule9:
+  class: File
+  path: python/output-cases.py
